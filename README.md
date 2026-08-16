@@ -6,7 +6,7 @@ A beautiful and customized zsh configuration with an elegant prompt design.
 
 This repository contains my personal zsh configuration files featuring a custom prompt design that enhances your terminal experience with a clean, modern aesthetic.
 
-![Prompt Design](image/1.png)
+![Prompt Design](images/1.png)
 
 ## Features
 
